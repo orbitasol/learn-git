@@ -1,2 +1,2 @@
 console.log('hello git');
-console.log('Logging another text');
+console.log('Learning Git and Github!');
